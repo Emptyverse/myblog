@@ -1,6 +1,7 @@
 ---
 title: 'JS手写题'
 date: 2021-05-08
+sidebar: auto
 tags:
  - JS手写题
 categories: 

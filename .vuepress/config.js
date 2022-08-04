@@ -10,6 +10,7 @@ module.exports = {
         content: "复制成功",
       },
     },
+    "vuepress-plugin-auto-sidebar", {}
   ],
   "head": [
     [

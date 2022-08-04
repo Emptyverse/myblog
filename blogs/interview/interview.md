@@ -1,7 +1,6 @@
 ---
 title: 前端面试题总结
 date: 2022-05-01
-sidebar: auto
 tags:
  - interview
 categories: 
